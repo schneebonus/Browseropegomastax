@@ -1,6 +1,8 @@
 # Browseropegomastax
 Like [Browserosaurus](https://github.com/will-stone/browserosaurus) but kind of ugly and for linux.
 
+![rofi screenshot](https://github.com/schneebonus/Browseropegomastax/blob/main/screenshot.png?raw=true)
+
 ## Installation
 
 - Install rofi (dnf install rofi / apt install rofi / pacman -S rofi / ...)
