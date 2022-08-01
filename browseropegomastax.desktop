@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Browseropegomastax
+Exec=/opt/browseropegomastax/choose_browser.sh %u
+StartupNotify=false
+MimeType=x-scheme-handler/*;
