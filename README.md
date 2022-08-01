@@ -1,2 +1,2 @@
 # Browseropegomastax
-Like Browserosaurus but kind of ugly and for linux.
+Like [Browserosaurus](https://github.com/will-stone/browserosaurus) but kind of ugly and for linux.
