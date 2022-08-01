@@ -3,6 +3,7 @@ Like [Browserosaurus](https://github.com/will-stone/browserosaurus) but kind of 
 
 ## Installation
 
+- Install rofi (dnf install rofi / apt install rofi / pacman -S rofi / ...)
 - Copy "choose_browser.sh" to "/opt/browseropegomastax"
 - Execute "sudo chmod +x /opt/browseropegomastax/chhoose_browser.sh"
 - Copy "browseropegomastax.desktop" to "/usr/share/applications"
