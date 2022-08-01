@@ -2,7 +2,7 @@
 
 # Add your browser run commands here.
 # Separated by spaces.
-browsers="firefox chromium tor-browser"
+browsers="firefox tor-browser-en chromium google-chrome-stable"
 
 # Set rofi theme
 # Might help to run "rofi-theme-selector".
@@ -13,7 +13,7 @@ rofi_theme="Pop-Dark"
 # check for URL
 if [ $# -eq 0 ]
         then
-            	echo "Error: no url supplied."
+                echo "Error: no url supplied."
                 exit 1
 fi
 
