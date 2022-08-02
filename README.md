@@ -9,8 +9,8 @@ Like [Browserosaurus](https://github.com/will-stone/browserosaurus) but kind of 
 - Copy ```choose_browser.sh``` to ```/opt/browseropegomastax```
 - Execute ```sudo chmod +x /opt/browseropegomastax/chhoose_browser.sh```
 - Copy ```browseropegomastax.desktop``` to ```/usr/share/applications```
-- Execute ```xdg-mime default browseropegomastax.desktop x-scheme-handler/https```
-- Execute ```xdg-mime default browseropegomastax.desktop x-scheme-handler/http```
+- Execute ```xdg-mime default browseropegomastax.desktop x-scheme-handler/https``` to set the default http browser
+- Execute ```xdg-mime default browseropegomastax.desktop x-scheme-handler/http``` to set the default https browser
 
 ## Configuration
 
