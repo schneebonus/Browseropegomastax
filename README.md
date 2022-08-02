@@ -12,6 +12,12 @@ Like [Browserosaurus](https://github.com/will-stone/browserosaurus) but kind of 
 - Execute ```xdg-mime default browseropegomastax.desktop x-scheme-handler/https``` to set the default http browser
 - Execute ```xdg-mime default browseropegomastax.desktop x-scheme-handler/http``` to set the default https browser
 
+#### Optional for clipboard support
+
+- Install xclip
+- Copy clipboard to ...
+- Execute ...
+
 ## Configuration
 
 - Edit ```browsers``` in ```/opt/browseropegomastax/chhoose_browser.sh``` to match your installed browsers.
