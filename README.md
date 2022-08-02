@@ -21,4 +21,4 @@ Custom http/https protocol handler + rofi prompter + some shell code to glue eve
 
 ## Configuration
 
-- Edit ```browsers``` in ```/opt/browseropegomastax/chhoose_browser.sh``` to match your installed browsers.
+- Edit ```browsers``` in ```/opt/browseropegomastax/choose_browser.sh``` to match your installed browsers.
