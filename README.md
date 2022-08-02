@@ -1,5 +1,5 @@
 # Browseropegomastax
-Like [Browserosaurus](https://github.com/will-stone/browserosaurus) but kind of hacky and for linux.
+Like [Browserosaurus](https://github.com/will-stone/browserosaurus) but hacky and for linux.
 Custom http/https protocol handler + rofi prompter + some shell code to glue everything together.
 
 ![rofi screenshot](https://github.com/schneebonus/Browseropegomastax/blob/main/screenshot.png?raw=true)
