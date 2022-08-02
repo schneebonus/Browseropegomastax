@@ -6,7 +6,7 @@ Custom http/https protocol handler + rofi prompter + some shell code to glue eve
 
 ## Installation
 
-- Install rofi (dnf install rofi / apt install rofi / pacman -S rofi / ...)
+- Install ```rofi``` (dnf install rofi / apt install rofi / pacman -S rofi / ...)
 - Copy ```choose_browser.sh``` to ```/opt/browseropegomastax```
 - Execute ```sudo chmod +x /opt/browseropegomastax/chhoose_browser.sh```
 - Copy ```browseropegomastax.desktop``` to ```/usr/share/applications```
@@ -15,9 +15,9 @@ Custom http/https protocol handler + rofi prompter + some shell code to glue eve
 
 #### Optional for clipboard support
 
-- Install ```xclip``` for your distro
-- Copy ```clipboard``` to ```...```
-- Execute ```...```
+- Install ```xclip``` (dnf install xclip / apt install xclip / pacman -S xclip / ...)
+- ToDo: Copy ```clipboard``` to ```...```
+- ToDo: Execute ```...```
 
 ## Configuration
 
