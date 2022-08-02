@@ -15,9 +15,9 @@ Custom http/https protocol handler + rofi prompter + some shell code to glue eve
 
 #### Optional for clipboard support
 
-- Install xclip
-- Copy clipboard to ...
-- Execute ...
+- Install ```xclip``` for your distro
+- Copy ```clipboard``` to ```...```
+- Execute ```...```
 
 ## Configuration
 
